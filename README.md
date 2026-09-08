@@ -1,3 +1,7 @@
+## Parcours francais
+
+Ce depot contient un parcours pedagogique en francais dans docs/fr/ : lecture commentee du code de Balancer v1, un mecanisme par chapitre, sans aucune installation ni execution du projet.
+
 <p align=center>
 <img width="128px" src="https://balancer-labs.github.io/pebbles/images/pebbles-pad.256w.png" alt="balancer pebbles logo"/>
 </p>
